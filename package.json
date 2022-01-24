@@ -1,0 +1,13 @@
+{
+  "name": "SocketIoRocketseat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lumendescomp/SocketIoRocketseat.git",
+  "author": "Luis Mendes <lipe_8888@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  }
+}
